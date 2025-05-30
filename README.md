@@ -52,3 +52,10 @@ crypto_db = {
     "Cardano": { "price_trend": "rising", "market_cap": "medium", "energy_use": "low", "sustainability_score": 8/10 },
     "Celo": { "price_trend": "rising", "market_cap": "medium", "energy_use": "low", "sustainability_score": 7.5/10 }
 }
+
+
+
+
+JoyaBot mimics basic AI decision-making by using rule-based logic to analyze predefined cryptocurrency data.
+ It responds to user queries with tailored advice based on factors like price trends and sustainability.
+Though simple, it demonstrates how structured rules can simulate intelligent responses, making it a beginner-friendly introduction to AI thinking.
